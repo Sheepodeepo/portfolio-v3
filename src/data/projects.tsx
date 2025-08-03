@@ -11,7 +11,7 @@ interface Projects{
 
 export const projects:Projects[] = [
     {
-      title: "LangChain AI",
+      title: "LangBridge AI",
       // hackathons_title: "MCP - AWS - Enterprise Agents Challenge",
       // date : "7/25/2025",
       hackathon : true,
