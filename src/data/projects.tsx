@@ -17,9 +17,9 @@ export const projects:Projects[] = [
       hackathon : true,
       description: "Multi AI Agent Application that allows user to create different short-video ads for a given product. User can select the type of ad, location of ad, and language of the ad. The application uses Amazon Bedrock AgentCore to create and manage AI Agents that generate the ads.",
       tech: ["Amazon Bedrock AgentCore", "Python", "FastAPI", "MiniMax MCP", "Brightdata MCP"],
-      // github: "https://github.com/Jeeevii/LangBridgeAI",
-      demo: "https://your-taskmanager-demo.com",
-      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=250&fit=crop"
+      github: "https://github.com/Jeeevii/LangBridgeAI",
+      demo: "https://www.youtube.com/watch?v=sQS5CLRmQZY",
+      image: "/images/langbridgeAI.png"
     },
     {
       title: "Fit Check AI",
@@ -29,8 +29,8 @@ export const projects:Projects[] = [
       description: "Full-stack application with React, Python FastAPI. Integrates and uses AI to edits user inputted images to improve user's clothing/fits. Returns AI clothing recommendations based on body type and preferences. Includes text-to-speech.",
       tech: ["React", "Python", "Fast API", "Gemini", "Replicate", "Kontext 1.1 Flux", "Chatterbox AI"],
       github: "https://github.com/Jeeevii/FitCheck",
-      demo: "https://your-ecommerce-demo.com",
-      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=250&fit=crop"
+      demo: "https://www.youtube.com/watch?v=Melo3dYctjM",
+      image: "/images/fitcheck.png",
     },
     {
       title: "Recipe Application",
@@ -38,17 +38,16 @@ export const projects:Projects[] = [
       description: "Full-stack application integrating with AI with React, Node.js, and PostgreSQL deployed using Docker and AWS. Features include user authentication and recipe management.",
       tech: ["React", "Java", "SpringBoot", "PostgreSQL", "Docker", "Gemini", "JWT"],
       github: "https://github.com/sheepodeepo/pantrypal",
-      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=250&fit=crop",
+      image: "/images/pantrypal.png",
       website: "https://pantrypal.live"
     },
     {
       title: "Article Management System",
       hackathon: false,
       description: "Full Stack Application for Peer Review Articles. Features include user authentication, article creation/management, user roles, with a focus on performance and scalability.",
-      tech: ["React", "Springboot", "PostgreSQL", "Docker", "JWT"],
+      tech: ["React", "Springboot", "PostgreSQL", "Docker", "Apache PDFBox", "JWT"],
       github: "https://github.com/sheepodeepo/trendsight",
-      // demo: "https://your-taskmanager-demo.com",
-      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=250&fit=crop"
+      image: "/images/trendsight-bg.png",
     },
     {
       title: "League of Legends Analytics Website",
@@ -56,8 +55,7 @@ export const projects:Projects[] = [
       description: "Data visualization platform for fetching and presenting data about given user; presenting insights on user performance in video games.",
       tech: ["HTML/CSS", "Node.js", "Express.js", "Firebase"],
       github: "https://github.com/Jeeevii/RiotStatsChecker",
-      // demo: "https://your-dataviz-demo.com",
-      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
+      image: "/images/wpgg.png",
       website: "https://wpgg-6f4e2.web.app/",
     }
   ];

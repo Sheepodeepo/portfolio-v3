@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Github, Linkedin, Mail, ExternalLink, Menu, X, Code, User, FileText, ArrowUpRight } from 'lucide-react';
+import { Github, Linkedin, Mail, ExternalLink, Menu, X, Code, User, FileText, Youtube, ArrowUpRight } from 'lucide-react';
 import { experiences } from '../data/experiences';
 import { projects } from '../data/projects';
 // import { skills } from '../data/skills';
@@ -213,7 +213,7 @@ const Portfolio = () => {
                       href={project.demo}
                       className="flex items-center text-gray-300 hover:text-purple-400 transition-colors"
                     >
-                      <ExternalLink size={16} className="mr-1" />
+                      <Youtube size={16} className="mr-1" />
                       Demo
                     </a>) : 
                     null
