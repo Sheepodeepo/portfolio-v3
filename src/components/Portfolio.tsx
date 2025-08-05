@@ -256,7 +256,7 @@ const Portfolio = () => {
               Send Email
             </a>
             <a
-              href="/resume/Alexander_Resume.pdf"
+              href="/resume/Alexander_Lee_Resume.pdf"
               download
               className="border border-purple-500 text-purple-400 px-8 py-3 rounded-lg font-medium hover:bg-purple-500 hover:text-white transition-colors flex items-center justify-center"
             >
