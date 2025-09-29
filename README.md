@@ -4,7 +4,7 @@ A modern, responsive portfolio website built to showcase my software engineering
 
 ## 🌐 Live Demo
 
-Check out the live version here: [portfolio-v3-sigma-vert.vercel.app/](https://https://portfolio-v3-sigma-vert.vercel.app/)
+Check out the live version here: [alexanderlee.live](https://https://alexanderlee.live)
 
 ---
 
